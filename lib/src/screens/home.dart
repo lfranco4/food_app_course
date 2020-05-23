@@ -211,7 +211,7 @@ class _HomeState extends State<Home> {
         ),
       ),
       bottomNavigationBar: Container(
-        height: 62,
+        height: 61,
         color: white,
         child: Padding(
           padding: const EdgeInsets.all(8.0),
